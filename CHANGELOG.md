@@ -9,7 +9,7 @@
 - \[new feature\] eventDate read during searchEvents to skip updating the user if it is already updated after the eventDate
 - \[new feature\] added docker files so we can run tests on it
 - \[new feature\] handle events in a pagination of 100 event each time
-- \[new feature\] childTree read during search events to see if the user is the owner and\or the forwarder
+- \[new feature\] childTree read during search events to see if the user is the owner and/or the forwarder
 - \[new feature\] full database update when 1000 event have been missed
 
 
